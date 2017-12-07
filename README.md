@@ -32,6 +32,7 @@ void draw() {
 }
 
 I decided to alter the shape to circle (ellipse). This is the second code.
+![screen shot](
 float a = 0.1;
 float s = 0.1;
 
