@@ -1,6 +1,6 @@
 # shapes
 
-This is the first shape of the square(rect).
+This is the first shape - square(rect).
 ![screen shot](https://github.com/jordan17101996github/shapes/blob/master/Screen%20Shot%202017-12-07%20at%2013.58.48.png)
 
 float a = 0.0;
